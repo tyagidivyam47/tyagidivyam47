@@ -4,7 +4,7 @@ I am Divyam Tyagi, Student of ABESEC in my starting years of graduation.I have k
 
 - 🔭 I’m currently working on: 'My Skills'😄.
 - 🌱 I’m currently learning:  'Full Stack Domain'.
-- 💬 Ask me about: MEMES & CS FundaMentals.
+- 💬 Ask me about: MEMES ,CS FundaMentals, Football.
 - 📫 How to reach me: tyagidivyam47@gmail.com
 - 😄 Pronouns: Divyam.
 - ⚡ Fun fact: Check your Spam Folder.
