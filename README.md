@@ -1,8 +1,6 @@
 ### Hi there 👋
-I am Divyam Tyagi, Student of ABESEC in my pre-final of graduation. Proficient in JAVA, React, and JAVASCRIPT.
-Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
+React.js | Node.js | Javascript
 
-- 🔭 I’m currently working on: 'My Skills'😄.
 - 📫 How to reach me: tyagidivyam47@gmail.com
 - 😄 Pronouns: Divyam.
 
