@@ -1,5 +1,5 @@
 ### Hi there 👋
-React.js | Node.js | Javascript
+MERN | AWS
 
 - 📫 How to reach me: tyagidivyam47@gmail.com
 - 😄 Pronouns: Divyam.
